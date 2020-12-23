@@ -1,0 +1,38 @@
+[
+{
+    "id": "1",
+    "Restoranas": "Jurgis ir drakonas",
+    "Virtuvė": "",
+    "Maistas": "Cili pica"
+},
+{
+    "id": "2",
+    "Restoranas": "",
+    "Virtuvė": "Rytų",
+    "Maistas": "Cili kebabai"
+},
+{
+    "id": "2",
+    "Restoranas": "Charlie pizza",
+    "Virtuvė": "",
+    "Maistas": "Pikantiski kebabai"
+},
+{
+    "id": "3",
+    "Restoranas": "Cili pica",
+    "Virtuvė": "britiska",
+    "Maistas": "Vistienos burgeris"
+} ,
+{
+    "id": "4",
+    "Restoranas": "Brooklyn brothers",
+    "Virtuvė": "JAV meksikieciu",
+    "Maistas": "Gata Salvaje rinkinys"
+} ,
+{
+    "id": "5",
+    "Restoranas": "Dodo pizza",
+    "Virtuvė": "japonu",
+    "Maistas": "Sushiai Easy Tokyo"
+}
+]
